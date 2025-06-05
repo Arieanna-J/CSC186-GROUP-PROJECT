@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ManualAppliance
+comment1.params=
+comment1.target=ManualAppliance()
+comment2.params=ID\ name\ price\ stock\ mType\ sNum
+comment2.target=ManualAppliance(int,\ java.lang.String,\ double,\ int,\ java.lang.String,\ int)
+comment3.params=ID\ name\ price\ stock\ mType\ sNum
+comment3.target=void\ setManualAppliance(int,\ java.lang.String,\ double,\ int,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=java.lang.String\ getManualType()
+comment5.params=
+comment5.target=int\ getSerialNum()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

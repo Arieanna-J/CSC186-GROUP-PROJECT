@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Administrator
+comment1.params=
+comment1.target=Administrator()
+comment2.params=ID\ password
+comment2.target=Administrator(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=boolean\ authentifiction()
+comment4.params=
+comment4.target=void\ homeMenu()
+numComments=5
